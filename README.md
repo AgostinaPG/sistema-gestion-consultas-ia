@@ -173,3 +173,6 @@ La incorporación de una instancia de supervisión humana constituye un elemento
 Como etapa de mejora, se propone completar la validación de las decisiones de aprobación y rechazo, estructurar los resultados de IA en campos independientes y ampliar las pruebas con diferentes tipos de consultas.
 
 En conjunto, el desarrollo constituye una primera implementación funcional de un sistema de gestión de consultas asistido por inteligencia artificial.
+
+Enlace a Airtable: https://airtable.com/invite/l?inviteId=invBRZHzWXE0cWEYD&inviteToken=c1b9524b801a1c4e6405293c95de50dd2e9d592cb99ec2ee0e7d9ff78bba47e3&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts 
+
